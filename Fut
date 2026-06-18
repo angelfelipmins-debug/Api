@@ -1,0 +1,289 @@
+{
+  "canales": {
+    "D-SPORTS": "https://ggiojgvjnkknjh.blogspot.com/2026/06/dsports_0187911881.html?m=1",
+    "DIRECTV-SPORTS-2": "http://vulpix.kouzentv.com/iptv_data/app/script/tv/0492b1bd88e2b084310b0926334b2817979ba41e/921e5d59c7fe56adcb6843410b0dc9c9aaf1133c/100203_19.m3u8",
+    "SKY-SPORTS-MX": "https://ggiojgvjnkknjh.blogspot.com/2026/06/skysports.html?m=1",
+    "EURO-SPORTS": "http://vulpix.kouzentv.com/iptv_data/app/script/tv/3ffae09c3ee5caf391e8ba0fae9de9d24e121b48/e6d4e0ecef1103a3d036246309e52a0db7d62e74/100450_19.m3u8",
+    "ESPN": "http://vulpix.kouzentv.com/iptv_data/app/script/tv/0492b1bd88e2b084310b0926334b2817979ba41e/821874f899ca6bb302bdbb993d1f407bcc738520/100897_19.m3u8",
+    "ESPN-ARG": "http://vulpix.kouzentv.com/iptv_data/app/script/tv/0492b1bd88e2b084310b0926334b2817979ba41e/821874f899ca6bb302bdbb993d1f407bcc738520/100897_19.m3u8",
+    "ESPN3": "http://vulpix.kouzentv.com/iptv_data/app/script/tv/0492b1bd88e2b084310b0926334b2817979ba41e/0bb57c433968bd77c2331352e64cef2c9f9bdc2a/100201_19.m3u8",
+    "ESPN3-ARG": "http://vulpix.kouzentv.com/iptv_data/app/script/tv/0492b1bd88e2b084310b0926334b2817979ba41e/d28690fd93a69d801220a84a455517e6bf2eeb3d/100201_19.m3u8",
+    "ESPN4": "https://ggiojgvjnkknjh.blogspot.com/2026/06/espn4.html?m=1",
+    "ESPN5": "https://ggiojgvjnkknjh.blogspot.com/2026/06/espn5.html?m=1",
+    "ESPN6": "https://ggiojgvjnkknjh.blogspot.com/2026/06/espn6.html?m=1",
+    "ESPN7": "https://ggiojgvjnkknjh.blogspot.com/2026/06/espn7.html?m=1",
+    "ESPN-MX-HD": "http://vulpix.kouzentv.com/iptv_data/app/script/tv/0492b1bd88e2b084310b0926334b2817979ba41e/18245437f3998a55057b85228b3e04a2ef4d3742/101089_19.m3u8",
+    "GOLTV": "https://ggiojgvjnkknjh.blogspot.com/2026/06/goltv.html?m=1",
+    "VTV": "https://ggiojgvjnkknjh.blogspot.com/2026/06/vtv.html?m=1",
+    "VTV-PLUS": "https://ggiojgvjnkknjh.blogspot.com/2026/06/vtv-plus.html?m=1",
+    "FOX-SPORTS-AR": "http://vulpix.kouzentv.com/iptv_data/app/script/tv/3ffae09c3ee5caf391e8ba0fae9de9d24e121b48/1e848ccbae72b84001b753133153eeff8776936f/100174_22.m3u8",
+    "FOX-SPORTS3-AR": "https://ggiojgvjnkknjh.blogspot.com/2026/06/foxsports3.html?m=1",
+    "FOX-DEPORTES": "http://vulpix.kouzentv.com/iptv_data/app/script/tv/3ffae09c3ee5caf391e8ba0fae9de9d24e121b48/7c921e202078641fc0eb69310ff027397d4c6a2a/101185_30.m3u8",
+    "TNT-SPORTS-AR": "https://ggiojgvjnkknjh.blogspot.com/2026/06/tntsport.html?m=1",
+    "ESPN-PREMIUM-AR": "http://vulpix.kouzentv.com/iptv_data/app/script/tv/0492b1bd88e2b084310b0926334b2817979ba41e/2246a4adea30322355e52a651446847baf7bdf29/100376_26.m3u8",
+    "TYC-SPORTS": "https://ggiojgvjnkknjh.blogspot.com/2026/06/tyc-sports.html?m=1",
+    "TELEFE": "https://ggiojgvjnkknjh.blogspot.com/2026/06/telefe.html?m=1",
+    "MOVISTAR-DEPORTES-PE": "https://ggiojgvjnkknjh.blogspot.com/2026/06/movistar-deportes.html?m=1",
+    "LIGA1-MAX-PE": "https://ggiojgvjnkknjh.blogspot.com/2026/06/liga1-max.html?m=1",
+    "WIN-SPORTS": "http://vulpix.kouzentv.com/iptv_data/app/script/tv/3ffae09c3ee5caf391e8ba0fae9de9d24e121b48/3366f7a56b5dbb5819d77fd6dcf2ab06a8ab4bf2/100204_19.m3u8",
+    "WIN-SPORTS-PLUS": "http://vulpix.kouzentv.com/iptv_data/app/script/tv/3ffae09c3ee5caf391e8ba0fae9de9d24e121b48/329159d3f2c4f88355f5fc130c1ed3084e2a39e4/101105_19.m3u8",
+    "WIN-SPORTS-PLUS-2": "https://ggiojgvjnkknjh.blogspot.com/2026/06/winsportsplus-2.html?m=1",
+    "TUDN-MX": "https://ggiojgvjnkknjh.blogspot.com/2026/06/tudn-mx.html?m=1",
+    "FOX-SPORTS-USA": "https://ggiojgvjnkknjh.blogspot.com/2026/06/fox-sports-usa.html?m=1",
+    "ESPN-DEPORTES-USA": "http://vulpix.kouzentv.com/iptv_data/app/script/tv/0492b1bd88e2b084310b0926334b2817979ba41e/1b81fdccc359791a7d94a849a8a23b3161e47f4c/101179_19.m3u8",
+    "TUDN-USA": "http://vulpix.kouzentv.com/iptv_data/app/script/tv/3ffae09c3ee5caf391e8ba0fae9de9d24e121b48/9dbc182c7e4276cec7cd287f4318201adc002d8e/101178_31.m3u8",
+    "BEIN-SPORTS-USA": "https://ggiojgvjnkknjh.blogspot.com/2026/06/bein-sports.html?m=1",
+    "UNIMAS-USA": "https://ggiojgvjnkknjh.blogspot.com/2026/06/unimas.html?m=1",
+    "PREMIER1-BR": "https://ggiojgvjnkknjh.blogspot.com/2026/06/premier1.html?m=1"
+  },
+  "partidos": [
+    {
+      "id": 4,
+      "fecha": "2026-06-18",
+      "nombre": "Estados Unidos vs Escocia",
+      "hora": "12:00",
+      "logo_liga": "https://images.thesportsdb.com/images/media/league/badge/72w8w01546522824.png",
+      "banderas": {
+        "local": "https://flagcdn.com/w40/us.png",
+        "visita": "https://flagcdn.com/w40/gb-sct.png"
+      },
+      "canales": [
+        "FOX-SPORTS-USA",
+        "TUDN-USA"
+      ]
+    },
+    {
+      "id": 5,
+      "fecha": "2026-06-18",
+      "nombre": "México vs Nueva Zelanda",
+      "hora": "15:00",
+      "logo_liga": "https://images.thesportsdb.com/images/media/league/badge/72w8w01546522824.png",
+      "banderas": {
+        "local": "https://flagcdn.com/w40/mx.png",
+        "visita": "https://flagcdn.com/w40/nz.png"
+      },
+      "canales": [
+        "TUDN-MX"
+      ]
+    },
+    {
+      "id": 6,
+      "fecha": "2026-06-18",
+      "nombre": "Argentina vs Argelia",
+      "hora": "18:00",
+      "logo_liga": "https://images.thesportsdb.com/images/media/league/badge/72w8w01546522824.png",
+      "banderas": {
+        "local": "https://flagcdn.com/w40/ar.png",
+        "visita": "https://flagcdn.com/w40/dz.png"
+      },
+      "canales": [
+        "TELEFE",
+        "TYC-SPORTS",
+        "TNT-SPORTS-AR",
+        "ESPN-PREMIUM-AR"
+      ]
+    },
+    {
+      "id": 7,
+      "fecha": "2026-06-18",
+      "nombre": "España vs Ucrania",
+      "hora": "21:00",
+      "logo_liga": "https://images.thesportsdb.com/images/media/league/badge/72w8w01546522824.png",
+      "banderas": {
+        "local": "https://flagcdn.com/w40/es.png",
+        "visita": "https://flagcdn.com/w40/ua.png"
+      },
+      "canales": [
+        "ESPN4"
+      ]
+    },
+    {
+      "id": 8,
+      "fecha": "2026-06-19",
+      "nombre": "Francia vs Corea del Sur",
+      "hora": "12:00",
+      "logo_liga": "https://images.thesportsdb.com/images/media/league/badge/72w8w01546522824.png",
+      "banderas": {
+        "local": "https://flagcdn.com/w40/fr.png",
+        "visita": "https://flagcdn.com/w40/kr.png"
+      },
+      "canales": [
+        "ESPN4"
+      ]
+    },
+    {
+      "id": 9,
+      "fecha": "2026-06-19",
+      "nombre": "Canadá vs Uruguay",
+      "hora": "15:00",
+      "logo_liga": "https://images.thesportsdb.com/images/media/league/badge/72w8w01546522824.png",
+      "banderas": {
+        "local": "https://flagcdn.com/w40/ca.png",
+        "visita": "https://flagcdn.com/w40/uy.png"
+      },
+      "canales": [
+        "VTV"
+      ]
+    },
+    {
+      "id": 10,
+      "fecha": "2026-06-19",
+      "nombre": "Brasil vs Marruecos",
+      "hora": "18:00",
+      "logo_liga": "https://images.thesportsdb.com/images/media/league/badge/72w8w01546522824.png",
+      "banderas": {
+        "local": "https://flagcdn.com/w40/br.png",
+        "visita": "https://flagcdn.com/w40/ma.png"
+      },
+      "canales": [
+        "PREMIER1-BR"
+      ]
+    },
+    {
+      "id": 11,
+      "fecha": "2026-06-19",
+      "nombre": "Alemania vs Arabia Saudita",
+      "hora": "21:00",
+      "logo_liga": "https://images.thesportsdb.com/images/media/league/badge/72w8w01546522824.png",
+      "banderas": {
+        "local": "https://flagcdn.com/w40/de.png",
+        "visita": "https://flagcdn.com/w40/sa.png"
+      },
+      "canales": [
+        "ESPN5"
+      ]
+    },
+    {
+      "id": 12,
+      "fecha": "2026-06-20",
+      "nombre": "Ecuador vs Italia",
+      "hora": "13:00",
+      "logo_liga": "https://images.thesportsdb.com/images/media/league/badge/72w8w01546522824.png",
+      "banderas": {
+        "local": "https://flagcdn.com/w40/ec.png",
+        "visita": "https://flagcdn.com/w40/it.png"
+      },
+      "canales": [
+        "GOLTV",
+        "ESPN4"
+      ]
+    },
+    {
+      "id": 13,
+      "fecha": "2026-06-20",
+      "nombre": "Japón vs Camerún",
+      "hora": "16:00",
+      "logo_liga": "https://images.thesportsdb.com/images/media/league/badge/72w8w01546522824.png",
+      "banderas": {
+        "local": "https://flagcdn.com/w40/jp.png",
+        "visita": "https://flagcdn.com/w40/cm.png"
+      },
+      "canales": [
+        "ESPN6"
+      ]
+    },
+    {
+      "id": 14,
+      "fecha": "2026-06-20",
+      "nombre": "Bélgica vs Chile",
+      "hora": "19:00",
+      "logo_liga": "https://images.thesportsdb.com/images/media/league/badge/72w8w01546522824.png",
+      "banderas": {
+        "local": "https://flagcdn.com/w40/be.png",
+        "visita": "https://flagcdn.com/w40/cl.png"
+      },
+      "canales": [
+        "ESPN5"
+      ]
+    },
+    {
+      "id": 15,
+      "fecha": "2026-06-21",
+      "nombre": "Países Bajos vs Senegal",
+      "hora": "12:00",
+      "logo_liga": "https://images.thesportsdb.com/images/media/league/badge/72w8w01546522824.png",
+      "banderas": {
+        "local": "https://flagcdn.com/w40/nl.png",
+        "visita": "https://flagcdn.com/w40/sn.png"
+      },
+      "canales": [
+        "ESPN4"
+      ]
+    },
+    {
+      "id": 16,
+      "fecha": "2026-06-21",
+      "nombre": "Inglaterra vs Irán",
+      "hora": "15:00",
+      "logo_liga": "https://images.thesportsdb.com/images/media/league/badge/72w8w01546522824.png",
+      "banderas": {
+        "local": "https://flagcdn.com/w40/gb.png",
+        "visita": "https://flagcdn.com/w40/ir.png"
+      },
+      "canales": [
+        "ESPN6"
+      ]
+    },
+    {
+      "id": 17,
+      "fecha": "2026-06-21",
+      "nombre": "Portugal vs Costa Rica",
+      "hora": "18:00",
+      "logo_liga": "https://images.thesportsdb.com/images/media/league/badge/72w8w01546522824.png",
+      "banderas": {
+        "local": "https://flagcdn.com/w40/pt.png",
+        "visita": "https://flagcdn.com/w40/cr.png"
+      },
+      "canales": [
+        "TUDN-MX"
+      ]
+    },
+    {
+      "id": 18,
+      "fecha": "2026-06-22",
+      "nombre": "Colombia vs Uzbekistán",
+      "hora": "14:00",
+      "logo_liga": "https://images.thesportsdb.com/images/media/league/badge/72w8w01546522824.png",
+      "banderas": {
+        "local": "https://flagcdn.com/w40/co.png",
+        "visita": "https://flagcdn.com/w40/uz.png"
+      },
+      "canales": [
+        "WIN-SPORTS-PLUS Op 1",
+        "WIN-SPORTS Op 2",
+        "TUDN-USA"
+      ]
+    },
+    {
+      "id": 19,
+      "fecha": "2026-06-22",
+      "nombre": "Croacia vs Ghana",
+      "hora": "17:00",
+      "logo_liga": "https://images.thesportsdb.com/images/media/league/badge/72w8w01546522824.png",
+      "banderas": {
+        "local": "https://flagcdn.com/w40/hr.png",
+        "visita": "https://flagcdn.com/w40/gh.png"
+      },
+      "canales": [
+        "DIRECTV-SPORTS-2",
+        "ESPN3-ARG Op 1",
+        "ESPN3 Op 2"
+      ]
+    },
+    {
+      "id": 20,
+      "fecha": "2026-06-22",
+      "nombre": "Panáma vs RD Congo",
+      "hora": "20:00",
+      "logo_liga": "https://images.thesportsdb.com/images/media/league/badge/72w8w01546522824.png",
+      "banderas": {
+        "local": "https://flagcdn.com/w40/pa.png",
+        "visita": "https://flagcdn.com/w40/cd.png"
+      },
+      "canales": [
+        "FOX-DEPORTES",
+        "SKY-SPORTS-MX"
+      ]
+    }
+  ]
+}
